@@ -1,7 +1,9 @@
 # Clarity TTW - Echo's Fork
 
 A fork of Clarity TTW, the image space and weather overhaul for Tale of Two Wastelands.
-Original mod by david88m: https://www.nexusmods.com/newvegas/mods/62481
+
+Clarity is originally by phoenix0113: https://www.nexusmods.com/newvegas/mods/62481
+The TTW port was made by david88m and is hosted in the old files section of that page.
 
 This fork fixes a significant bug present in the TTW version where 22 FO3 image space
 records were left with vanilla FO3 data instead of Clarity's processed values, causing
@@ -140,7 +142,8 @@ A compatibility patch for Desert Natural Weathers TTW is not included in this re
 
 ## Credits
 
-- **david88m** - original Clarity and Clarity TTW
+- **phoenix0113** - original Clarity mod (Fallout New Vegas / Fallout 3)
+- **david88m** - TTW port hosted in old files on the Clarity Nexus page
 - **EchoStorm** - bug fixes, additional records, this fork
 
 Full technical documentation of every change is in the `Documents/` folder.

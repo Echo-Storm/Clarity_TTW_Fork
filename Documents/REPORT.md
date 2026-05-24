@@ -1,9 +1,10 @@
 # Clarity TTW - Fork Report
 
-This is a report of the changes made in Echo's fork of Clarity TTW. The fork was built
-against a 2020 build sourced from the original TTW forums (now defunct), which was newer
-than your 2018 Nexus release (Nexus ID 62481). All differences listed here have been
-verified with a binary-level ESP parser comparing the two files directly by record.
+This is a report of the changes made in Echo's fork of Clarity TTW. Clarity is originally
+by phoenix0113 - your TTW port is what this fork is built on. The fork was built against
+a 2020 build sourced from the original TTW forums (now defunct), which was newer than
+your 2018 Nexus release (Nexus ID 62481). All differences listed here have been verified
+with a binary-level ESP parser comparing the two files directly by record.
 
 ---
 
