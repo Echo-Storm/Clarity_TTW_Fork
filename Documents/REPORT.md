@@ -2,9 +2,10 @@
 
 Hi phoenix0113. I'm a TTW player and modder who found a significant bug in the TTW port
 of Clarity that's been hosted on your mod page (uploaded by david88m). I've fixed it,
-documented everything, and forked the file. I wanted to give you a full technical
+documented everything and forked the file. I wanted to give you a full technical
 account of what was wrong and what changed, and let you know the fork exists in case
-you want to fold any of this back in or take it down if you'd rather handle it yourself.
+you want to fold any of this back in, take it down, host it, 
+or if you'd rather handle it yourself.
 
 The fork is here: https://github.com/Echo-Storm/Clarity_TTW_Fork
 
@@ -196,8 +197,8 @@ Net additions: +8 WTHR, +2 IMAD
 
 ---
 
-Thanks for making Clarity. It's one of the best visual mods for these games and your
-work on the originals was solid throughout - the NV side of the TTW port was clean.
-The FO3 side just got missed.
+Thanks for making Clarity. They are the best visual mods for these games and your
+work on the originals was amazing. If I can assist further let me know, 
+I enjoyed getting this fixed.
 
 - EchoStorm
